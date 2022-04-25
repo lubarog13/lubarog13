@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+ 
+I am a front-end developer, mainly developing in Vue and Angular, but I also try to learn other technologies.
 
-<!--
-**lubarog13/lubarog13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- Studied at [ITMO University](https://en.itmo.ru/)
+- Make responsive websites and mobile apps
+- Love complex tasks and Linux Ubuntu 💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me 📫
+  - __Telegram__: [lubarog13](https://telegram.me/lubarog13)
+  - __Gmail__: [lubarog13@gmail.com](mailto:lubarog13@gmail.com) 
+  - __[Whatsapp](https://api.whatsapp.com/send?phone=79817668148)__
