@@ -1,6 +1,6 @@
 ## Hi there 👋
  
-I am a front-end developer, mainly developing in Vue and Angular, but I also try to learn other technologies.
+I am a front-end developer, mainly developing in __Vue__ and __Angular__, but I also try to learn other technologies.
 
 ### About me
 - Studied at [ITMO University](https://en.itmo.ru/)
