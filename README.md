@@ -18,4 +18,3 @@ I am a front-end developer, mainly developing in __Vue__ and __Angular__, but I 
   - __Telegram__: [lubarog13](https://telegram.me/lubarog13)
   - __Gmail__: [lubarog13@gmail.com](mailto:lubarog13@gmail.com) 
   - __Linkedin__: www.linkedin.com/in/lubarog13
-  - __[Whatsapp](https://api.whatsapp.com/send?phone=79817668148)__
