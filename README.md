@@ -2,6 +2,9 @@
  
 I am a front-end developer, mainly developing in __Vue__ and __Angular__, but I also try to learn other technologies.
 
+
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media2.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif?cid=ecf05e4795uq8ew224jo5fxpy0xeumn7jziafksmmbhixomb&rid=giphy.gif&ct=s" width="50">
+
 ### About me
 - Studied at [ITMO University](https://en.itmo.ru/)
 - Make responsive websites and mobile apps
@@ -15,7 +18,7 @@ I am a front-end developer, mainly developing in __Vue__ and __Angular__, but I 
 
 
 ### Contact me 📫
-  - __Telegram__: [lubarog13](https://telegram.me/lubarog13)
-  - __Gmail__: [lubarog13@gmail.com](mailto:lubarog13@gmail.com) 
-  - __Linkedin__: www.linkedin.com/in/lubarog13
-  - __Twitter__: https://twitter.com/lubarog13
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lubarog13@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://telegram.me/lubarog13)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/lubarog13)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lubarog13)
