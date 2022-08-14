@@ -8,7 +8,7 @@ I am a front-end developer, mainly developing in __Vue__ and __Angular__, but I 
 ### About me
 - Studied at [ITMO University](https://en.itmo.ru/)
 - Make responsive websites and mobile apps
-- Love complex tasks and Linux Ubuntu 💻
+- Love complex task, Linux Manjaro and Ubuntu 💻
 
 #### My activity 🙃:
 
