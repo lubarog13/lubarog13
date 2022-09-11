@@ -6,7 +6,8 @@ I am a front-end developer, mainly developing in __Vue__ and __Angular__, but I 
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media2.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif?cid=ecf05e4795uq8ew224jo5fxpy0xeumn7jziafksmmbhixomb&rid=giphy.gif&ct=s" width="50">
 
 ### About me
-- Studied at [ITMO University](https://en.itmo.ru/)
+- Studied at [ITMO University](https://en.itmo.ru/) 
+- Now I'm study at [LETI University](https://etu.ru/en/university/) (I'm getting a bachelor's degree)
 - Make responsive websites and mobile apps
 - Love complex task, Linux Manjaro and Ubuntu 💻
 
