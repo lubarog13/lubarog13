@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://media4.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.gif?cid=ecf05e477ncx530hwtjzt8kc6bqofqwx38b4w8ewrxgngugz&rid=giphy.gif&ct=s" width="60">
  
 I am a front-end developer, mainly developing in __Vue__ and __Angular__, but I also try to learn other technologies.
 
