@@ -19,7 +19,7 @@ I am a front-end developer, mainly developing in __Vue__ and __Angular__, but I 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lubarog13&langs_count=10&theme=tokyonight&layout=compact)]()
 
 ## Since September I have been working in the company's gitlab, so here is my activity 🥺:
-<img src="https://sun9-66.userapi.com/impg/Aq9JKYnXbz3YOa7asRiZLP-LoyUfgm0rj4Zddg/jflqjSthwcI.jpg?size=1148x549&quality=96&sign=b23500bc102e3bd91d1f867cba53445d&type=album">
+<img src="https://sun9-20.userapi.com/impg/ORByDPUNIH5wZKxUcXzSA15OrnVQYwRV90iHow/N-w8o57N0NA.jpg?size=1142x562&quality=96&sign=85187becb84996e5dfdd740e60ed8ed1&type=album">
 
 
 ### Contact me 📫
